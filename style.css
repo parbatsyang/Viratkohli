@@ -1,0 +1,27 @@
+.container{
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+}
+.header{
+    font-size: 50px;
+    padding-left: 100px;
+    
+}
+img{
+    height:250px;
+    width: 100%;
+    
+}
+span{
+    font-style: normal;
+}
+h3{
+    padding-left: 200px;
+    font-size: 30px;
+    
+}
+.list{
+    padding-top: 10px;
+}
